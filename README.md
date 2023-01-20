@@ -1,4 +1,4 @@
-# WEEK 1 CHALLENGE
+# Week 1 Challenge: Code Refactor
 
 # User Story
 
